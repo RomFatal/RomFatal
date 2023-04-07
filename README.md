@@ -1,4 +1,5 @@
-![](https://github.com/RomFatal/RomFatal/blob/main/profile.gif)
+![](https://github.com/RomFatal/RomFatal/raw/main/profile.gif)<!-- If you want the template for my gif, email me! -->
+
 
 ### Languages
 
